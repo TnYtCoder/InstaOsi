@@ -1,4 +1,4 @@
-[![Insta - Osi](https://img.shields.io/badge/Insta-Osi-brightgreen)](https://github.com/TnYtCoder/InstaOsi) [![Made with Python](https://img.shields.io/badge/Python->=3.6-blue?logo=python&logoColor=white)](https://python.org "Go to Python homepage")
+[![Insta - Osi](https://img.shields.io/badge/Insta-Osi-orange?logo=Instagram&logoColor=brightgreen)](https://github.com/TnYtCoder/InstaOsi)[![Made with Python](https://img.shields.io/badge/Python->=3.6-blue?logo=python&logoColor=white)](https://python.org "Go to Python homepage")
 [![Tested - Ok](https://img.shields.io/badge/Tested-Ok-orange?logo=Verizon&logoColor=brightgreen)](https://)
 [![PyPI - Instaloader](https://img.shields.io/badge/PyPI-Instaloader-blue?style=for-the-badge&logo=PypI&logoColor=brightgreen)](https://)
 
