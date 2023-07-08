@@ -21,4 +21,25 @@ pkg install python-pip
 ```
 Done ?!
 
-`Good, Now Clone This Repository In Your Termux`
+Good, Now Clone This Repository In Your Termux
+
+```
+git clone https://github.com/TnYtCoder/InstaOsi
+cd InstaOsi
+bash setup.sh
+```
+*setup.sh*   File Will Automatically Install The Requirements!
+
+`Good Job ! We Have Installed All The Requirements`
+
+`Before Running The`  *instaosi.py*  `We Have To Make Some Changes In The`  *credentials.txt*  , `Follow The Steps -`
+
+`Create A Fake Instagram Account And Write Down The Password Somewhere Because You Need Your Id & Pass In The Following Steps`
+
+_Open The InstaOsi Dir Before Running All Of The Commands_
+
+1. nano credentials.txt
+2. Then Replace Your Id And Password
+3. Then Press ctrl + o & ctrl + x
+
+Like This...
