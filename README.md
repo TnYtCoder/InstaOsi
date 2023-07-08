@@ -6,6 +6,9 @@
 # InstaOsi
 A Simple Python Script To Gather Basic Information Of Instagram User.
 
+![0001_0](https://github.com/TnYtCoder/InstaOsi/assets/115485810/3ad2a574-fd63-4bcc-8403-d1d775840fbd)
+
+
 This Tool Gather Basic Information Like Profile img , followers , following , etc.
 
 `It Also Saves The Logs Of The Previous User.` 📑
