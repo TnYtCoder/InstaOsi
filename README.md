@@ -15,6 +15,12 @@ This Tool Gather Basic Information Like Profile img , followers , following , et
 
 This Tool Is Best For The Data Researchers. 👨‍🔬
 
+Topics Covered 📑 :
+
+[![Installation - ↓](https://img.shields.io/badge/Installation-↓-lightgrey)](https://github.com/TnYtCoder/InstaOsi#installation-termux)
+[![Features - ↓](https://img.shields.io/badge/Features-↓-lightgrey)](https://github.com/TnYtCoder/InstaOsi#features-)
+
+
 ## Installation (Termux)
 `For First Install These Basic Requirements !`
 
