@@ -29,7 +29,7 @@ apt update
 apt upgrade
 pkg install git
 pkg install python3
-pkg install python3-pip
+pkg install python-pip
 ```
 Done ?!
 
@@ -83,3 +83,5 @@ python3 instaosi.py
 ## Thanks You & Bye Bye
 
 Thank You For Using This Tool ❤️. 
+
+Pull Request If You Are Facing Any Error or Having Issue , I'll Be Happy To Solve Your Issue 😊
