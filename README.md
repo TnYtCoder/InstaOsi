@@ -22,6 +22,12 @@ Topics Covered 📑 :
 
 
 ## Installation (Termux)
+
+
+![0001_0(1)](https://github.com/TnYtCoder/InstaOsi/assets/115485810/7070cc4c-54e1-4dff-b451-6ba85ddabe1e)
+
+
+
 `For First Install These Basic Requirements !`
 
 ```
